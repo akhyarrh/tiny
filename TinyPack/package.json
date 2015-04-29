@@ -1,0 +1,12 @@
+{
+    "id": "TinyPack",
+    "name": "TinyPack",
+    "version": "0.0.4",
+    "author": "Akhyar Rahman",
+    "url": "https://github.com/walutisme/tinypack/",
+    "description": "Extend/add features to vanilla engine parts.",
+    "main": "./depan.js",
+    "dependencies": {
+        "gdt-modAPI": "0.1.x"
+    }
+}
